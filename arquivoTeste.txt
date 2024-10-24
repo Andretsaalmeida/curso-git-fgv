@@ -2,3 +2,5 @@ olá GitHub!!
 testanto o comando git pull!!
 q massa um merge!!
 agora sim aprendi git!!
+conflito merge!!
+
